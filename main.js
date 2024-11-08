@@ -177,10 +177,10 @@ function everydayItemHTML(item_name) {
 }
 
 var everyday = {
-    B: "Tea + Coffee, Boiled Egg / Omelette, Bread + Butter + Jam, Bournvita, Hot + Cold Milk, Cornflakes",
-    L: "",
-    S: "Tea + Coffee",
-    D: "",
+    B: "Tea, Coffee, Milk, Sprouts, Banana, Puffed Rice, Bread, Jam, Ginger Ale, Lemon Extract",
+    L: "Plain Rice, Chapati, Salad, Boiled Dal, Boiled Sabji, Pickle",
+    S: "Black Tea, Coffee, Milk, Bread, Jam, Lemon Extract",
+    D: "Plain Rice, Chapati, Buttermilk, Boiled Dal, Boiled Sabji, Pickle",
 };
 
 function convertMenu() {

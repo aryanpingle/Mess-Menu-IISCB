@@ -1,44 +1,44 @@
 {
     "Monday": {
-        "B": "Aloo Paratha",
-		"L": "Aloo Parwal Dry, Besan Gatta Gravy, Dal Tadka, Rice, Chapati, Rassam, Fryums, Green Salad, Buttermilk, Gulab Jamun",
-		"S": "Spicy Bhelpuri",
-		"D": "Paneer Bhurji / Palak Paneer, Egg Bhurji / Curry, Fruit, Mix Veg Dry, Dal Masala, Jeera Rice, Chapati + Paratha, Sambhar, Onion Salad, Boondi Raita"
+        "B": "Poha",
+		"L": "Panchmesali Subji, Masoor Daaler Bora, Moong Daal, Egg Kosha, Dry fruit Lassi",
+		"S": "Noodles",
+		"D": "Methi Matar Paneer, Daal, Chicken Rezala, Sooji Burfi"
     },
     "Tuesday": {
-        "B": "Misal Pav",
-		"L": "Punjabi Rajma, Cabbage Dry, Dal Kolhapuri, Sambhar, Chapati, Plain Rice, Roasted Papad, Chana Onion Tomato Salad, Plain Curd, Tang Juice, Rasmalai",
-		"S": "Vada Pav",
-		"D": "Dahi Kachori / Aloo Tikki Chaat, Masala Bhindi Dry, Sindhi Besan Kadhi, Plain Rice, Chapati, Rassam, Tossed Salad, Plain Curd"
+        "B": "Kochuri, Cholar Daal",
+		"L": "Creamy Garlic Mushroom, Plain Daal, Egg Curry, Buttermilk, Guava",
+		"S": "Momos, Chicken Soup, Elaichi Tea",
+		"D": "Fulkopi Roast, Moong Daal, Muri Ghonto, Kaatla Maacher Jhol, Khasta Goja"
     },
     "Wednesday": {
-        "B": "Medu Wada / Idli",
-		"L": "Aloo Gobi Dry, Veg Kolhapuri, Dal Makhani, Rassam, Chapati, Jeera Rice, Fryums, Sprout Moong Salad, Punjabi Lassi, Balushahi / Cream Jamun",
-		"S": "Veg Cutlet",
-		"D": "Paneer Biryani, Chicken Biryani, Fruits, Aloo Capsicum Dry, Dal Lasooni, Plain Rice, Chapati, Sambhar, Mixed Salad, Veg Raita"
+        "B": "Methi Paratha, Matar Subji, Dahi",
+		"L": "Aloo Posto / Baingan Bharta, Moong Daal, Chicken Aloo Jhol, Papad, Muskmelon / Papaya",
+		"S": "Dhokla / Chole Kulche, Ginger Tea",
+		"D": "Kadhi Pakoda, Pumpkin Fry, Daal, Egg Kosha, Bundi / Gulab Jamun"
     },
     "Thursday": {
-        "B": "Veg Sandwich",
-		"L": "Aloo Jeera, Chole Amritsari, Puri, Dal Fry, Plain Rice, Chapati, Sambhar, Fresh Lime Water, Fried Papad, Cucumber Raita, Sevai Kheer / Shrikhand",
-		"S": "Onion Bhajiya",
-		"D": "Pav Bhaji, Mushroom Masala, Onion + Lemon, Roasted Papad, Chapati, Masala Khichdi, Tossed Salad, Cucumber Raita"
+        "B": "Idli / Rava Idli, Vada, Coconut Chutney",
+		"L": "Saag, Jhuri Aloo Vaja, Masoor Daal, Egg curry, Nimbu Shikanji",
+		"S": "Pizza / Garlic Bread, Elaichi Tea",
+		"D": "Paneer Hariyali, Fried Rice, Chilli Chicken, Tomato Chutney / Bundi"
     },
     "Friday": {
-        "B": "Onion Tomato Uttapam",
-		"L": "Bhindi Fry, Moong Dry, Kadhi Pakoda, Rassam, Chapati, Jeera Rice, Fryums, Dhokla, Plain Curd, Iced Tea, Fruit Custard",
-		"S": "Schezwan Roll",
-		"D": "Paneer Tikka / Mattar Paneer, Chicken / Egg Curry, Fruit, Dal Tadka, Jeera Rice, Chapati + Paratha, Sambhar, Green Salad, Boondi Raita"
+        "B": "Vegetable Uttapam / Roti Ghughni",
+		"L": "Soyabean Capsicum Subji, Begun Bhaja, Moong Daal, Boiled Egg, Pineapple Juice / Muskmelon Juice",
+		"S": "Veg Pattis / Sweet Corn Chaat, Ginger Tea",
+		"D": "Aloo Dum, Chana Daal, Pulao, Chicekn Biriyani / Mutton Biriyani, Salad, Raita"
     },
     "Saturday": {
-        "B": "Poha",
-		"L": "Dum Aloo Gravy, Black Chana Dry, Dal Lasooni, Sambhar, Chapati, Mattar Rice, Roasted Papad, Macaroni Salad, Mint Lemonade, Jalebi Rabdi",
-		"S": "French Fries",
-		"D": "Mix Paratha, Dal Fry, Sev Tamatar / Misal Sev, Plain Rice, Chapati, Kokam Rassam, Mixed Salad, Plain Curd"
+        "B": "Rava Masala Dosa",
+		"L": "Banana Stem Subji / Shukto, Prawn Curry, Bhetki Paturi",
+		"S": "Samosa / Brownie, Elaichi Tea",
+		"D": "Palak Paneer, Moong Daal, Paratha, Egg Curry, Rosogolla"
     },
     "Sunday": {
-        "B": "Masala Dosa",
-		"L": "Veg Kofta, Dahi Wada, Dal Fry, Chapati, Veg Masala Pulav, Fried Papad, Veg Raita",
-		"S": "Dabeli",
-		"D": "Chole Bhature / Kulche, Pani Puri, Curd Rice, Onion + Lemon, Chapati, Choco Bite, Green Salad"
+        "B": "Gobi Paratha, Oreo Milkshake",
+		"L": "Chole Masala, Bhature, Jeera Rice, Chicken Butter Masala, Ice Cream / Misti Doi",
+		"S": "Phuchka / Papri Chaat, Ginger Tea",
+		"D": "Veg Khichdi, Aloo Vaja, Masoor Daal, Beguni, Boiled Egg, Tomato Chutney"
     }
 }
